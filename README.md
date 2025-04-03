@@ -15,3 +15,8 @@
 - Clone the project
 - Open with android studio
 - Make sure you have installed Kotlin Multiplatform in your IDE and run
+
+## Screenshots
+<img src="https://github.com/austinevick/Star-wars-kmm-project/blob/main/screenshots/Screenshot_20250403-124506.jpg" width=360/>   <img src="https://github.com/austinevick/Star-wars-kmm-project/blob/main/screenshots/Screenshot_20250403-124527.jpg" width=360/>
+
+<img src="https://github.com/austinevick/Star-wars-kmm-project/blob/main/screenshots/Screenshot_20250403-124547.jpg" width=360/>
